@@ -1,1 +1,0 @@
-I, Bijaya Khadka, have read and understood the Spring CSE12 syllabus and Personal Responsibility Document. bkhadka 28 March 2022
