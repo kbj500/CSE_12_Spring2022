@@ -1,0 +1,27 @@
+assignment:  Lab 2
+name:        Bijaya Khadka
+cruzid:      bkhadka
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+30 / 30 Part-1 completed
+30 / 30 Part-2 completed
+18 / 30 Part-3 completed
+comment: This submission failed 40% of the Digital tests. It received 18.0 out of 30 possible points.
+
+10 / 10 README.txt in the lab2/ directory exists (empty file allowed)
+
+--------------------
+NONE
+
+30 / 30 Part-1 completed
+30 / 30 Part-2 completed
+10 / 10 README.txt in the lab2/ directory exists (empty file allowed)
+
+--------------------
+TOTAL
+
+points earned:   88
+lab total:       100
+late hours used: 72
