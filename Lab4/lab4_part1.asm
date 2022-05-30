@@ -30,7 +30,7 @@ loop_y:
 	
 	#increase base address by one	
 	addi a2, a2, 128
-	#decrement x quantity by 1
+	#decrement y quantity by 1
 	addi a1, a1, -1
 	b loop_y
 
